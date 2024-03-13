@@ -1,11 +1,13 @@
 # Hi there, I'm Audrey - (Weimeng Duan)  👋 
 
-## I'm a Data Scientist Professional, Developer, and Book Worm!!
+## I'm a Data Science Professional, Developer, and Book Worm!!
 
-- 🔭 I’m pursuing a MS in Data Analytics Engineering at Northeastern University and obtained a BS in Information and Computer Science from Central South University 
-- 👯 I’m looking for full-time position from September 2024 to May 2025 (Note my graduation date is flexible)
+- 🔭 I’m pursuing a MS in Data Analytics Engineering at Northeastern University 
+- 🔭 I obtained a BS in Information and Computer Science from Central South University 
+- ✨ I'm interested in data science, web/APP development, product design
+- 👯 I’m looking for full-time opportunities from September 2024 to May 2025 (Note my graduation date is flexible)
+- 👯 I’m available for internships or coop too!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Get hired!
 - ⚡ Fun fact: I love to draw, read, hiking, hot yoga, play piano and hear something I do not know. I am also a pet lover 😻 🐶
 
 ### Connect with me:
@@ -38,7 +40,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="spark" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="sqlsever" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="aws" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="was" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />
