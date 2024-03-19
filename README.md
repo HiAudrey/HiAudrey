@@ -2,13 +2,13 @@
 
 ## I'm a Data Science Professional, Developer, and Book Worm!!
 
-- 🔭 I’m pursuing a MS in Data Analytics Engineering at Northeastern University 
+- 🔭 I’m pursuing an MS in Data Analytics Engineering at Northeastern University 
 - 🔭 I obtained a BS in Information and Computer Science from Central South University 
 - ✨ I'm interested in data science, web/APP development, product design
 - 👯 I’m looking for full-time opportunities from September 2024 to May 2025 (Note my graduation date is flexible)
 - 👯 I’m available for internships or coop too!
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw, read, hiking, hot yoga, play piano and hear something I do not know. I am also a pet lover 😻 🐶
+- ⚡ Fun fact: I love to draw, read, hike, yoga, music, and hear something I do not know. I am also a pet lover 😻 🐶
 
 ### Connect with me:
 
