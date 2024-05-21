@@ -8,7 +8,8 @@
 - 👯 I’m looking for full-time opportunities from September 2024 to May 2025 (Note my graduation date is flexible)
 - 👯 I’m available for internships or coop too!
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw, read, hike, yoga, music, and hear something I do not know. I am also a pet lover 😻 🐶
+- ⚡ Fun fact: I love to draw, calligraphy, read, hike, music, and hear something I do not know. I am also a pet lover 😻 🐶. I am a big fan of 'Dream of the Red Chamber' and 'Journey to the West'. 
+- 👋 Friendship: I would like to make new friends who are interested in making stuff together. 
 
 ### Connect with me:
 
