@@ -19,8 +19,8 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/hiaudreyay#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/hiaudreyay#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/icons8-goodreads.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi/hiaudreyay)
-[![website](./img/-yG2dQr-goodreads-logo-light.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi/hiaudreyay)
+[![website](./img/icons8-goodreads.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi/hiaudreyay#gh-light-mode-only)
+[![website](./img/-yG2dQr-goodreads-logo-light.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi/hiaudreyay#gh-dark-mode-only)
 
 ### Languages and Tools:
 
