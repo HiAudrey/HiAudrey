@@ -2,14 +2,14 @@
 
 ## I'm a Data Science Professional, Developer, and Book Worm!!
 
-- 🔭 I’m pursuing an MS in Data Analytics Engineering at Northeastern University 
-- 🔭 I obtained a BS in Information and Computer Science from Central South University 
-- ✨ I'm interested in data science, web/APP development, product design
+- 🔭 I’m pursuing an MS in Data Analytics Engineering concentrating in Data Science at Northeastern University 
+- 🔭 I obtained a BS in Information and Computer Science from Central South University in China
+- ✨ I'm interested in Data Science, Machine Learning, Web/APP Development, Product Design, User Experience, and new technology.
 - 👯 I’m looking for full-time opportunities from September 2024 to May 2025 (Note my graduation date is flexible)
-- 👯 I’m available for internships or coop too!
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw, calligraphy, read, hike, music, and hear something I do not know. I am also a pet lover 😻 🐶. I am a big fan of 'Dream of the Red Chamber' and 'Journey to the West'. 
-- 👋 Friendship: I would like to make new friends who are interested in making stuff together. 
+- 👯 I’m available for internships and projects too!
+- 🌱 Hobbies: drawing, calligraphy, reading, writing, collecting quotes, music, piano, gym, hiking, and exploring everything 🤣
+- ⚡ Fun fact: I swam in the sea for two months. I am a pet lover 😻 🐶. I am a big fan of 'Dream of the Red Chamber' and 'Journey to the West'. 
+- 👋 Friendship: I would like to make new friends who are interested in anything. 
 
 ### Connect with me:
 
@@ -18,6 +18,10 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/hiaudreyay#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/hiaudreyay#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/goodreads-light.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi#gh-light-mode-only)
+[![website](./img/goodreads-dark.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi/hiaudreyay#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
