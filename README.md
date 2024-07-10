@@ -9,7 +9,7 @@
 - 👯 I’m available for internships and projects too!
 - 🌱 Hobbies: drawing, calligraphy, reading, writing, collecting quotes, music, piano, gym, hiking, and exploring everything 🤣
 - ⚡ Fun fact: I swam in the sea for two months. I am a pet lover 😻 🐶. I am a big fan of 'Dream of the Red Chamber' and 'Journey to the West'. 
-- 👋 Friendship: I would like to make new friends who are interested in anything. 
+- 👋 Friendship: Any passionate friends are welcome to connect. 
 
 ### Connect with me:
 
@@ -20,7 +20,7 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/hiaudreyay#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/icons8-goodreads.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi/hiaudreyay)
-
+[![website](./img/-yG2dQr-goodreads-logo-light.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi/hiaudreyay)
 
 ### Languages and Tools:
 
