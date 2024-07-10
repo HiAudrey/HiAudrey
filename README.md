@@ -20,7 +20,7 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/hiaudreyay#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/goodreads-light.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi#gh-light-mode-only)
-[![website](./img/goodreads-dark.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi/hiaudreyay#gh-dark-mode-only)
+[![website](./img.icons8.com/?size=100&id=oOKoGfrKm2aE&format=png&color=000000)](https://www.goodreads.com/user/show/179233841-audrey-hi/hiaudreyay#gh-dark-mode-only)
 
 
 ### Languages and Tools:
