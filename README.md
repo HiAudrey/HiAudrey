@@ -19,18 +19,8 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/hiaudreyay#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/hiaudreyay#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/icons8-goodreads.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi/hiaudreyay#gh-light-mode-only)
-[![website](./img/-yG2dQr-goodreads-logo-light.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi/hiaudreyay#gh-dark-mode-only)
-[![(<link type="image/png" sizes="32x32" rel="icon" href=".../icons8-goodreads-32.png">)](https://www.goodreads.com/user/show/179233841-audrey-hi/hiaudreyay#gh-dark-mode-only)
+[![website](./img/icons8-goodreads25.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi/hiaudreyay#gh-light-mode-only)
 
-
-[![LinkedIn Light](./img/linkedin-light.svg)](https://linkedin.com/in/weimengduan#gh-light-mode-only)
-[![LinkedIn Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/weimengduan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Instagram Light](./img/instagram-light.svg)](https://instagram.com/hiaudreyay#gh-light-mode-only)
-[![Instagram Dark](./img/instagram-dark.svg)](https://instagram.com/hiaudreyay#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Goodreads](link type="image/png" sizes="32x32" rel="icon" href=".../icons8-goodreads-32.png")](https://www.goodreads.com/user/show/179233841-audrey-hi)
 
 ### Languages and Tools:
 
