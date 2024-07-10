@@ -19,7 +19,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/hiaudreyay#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/hiaudreyay#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/icons8-goodreads.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi/hiaudreyay#gh-dark-mode-only)
+[![website](./img/icons8-goodreads.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi/hiaudreyay)
 
 
 ### Languages and Tools:
