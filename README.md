@@ -5,7 +5,7 @@
 - 🏫 Education: BS in Information and Computer Science and MS in Data Analytics Engineering
 - 🔭 Passion: Data Science, Machine Learning, and Data-driven business
 - 💼 Experience: Built and updated credit card risk models, feature engineering, defined and built indicator monitor dashboard, data mining report, data quality assessment, and A/B test for new product channel.
-- 🌱 Hobbies: drawing, calligraphy, reading, writing, collecting quotes, music, nature, and exploring everything 🤣
+- 🌱 Hobbies: drawing, calligraphy, reading, writing, collecting quotes, music, nature, and exploring :) 
 
 ### Connect with me:
 
