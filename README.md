@@ -1,26 +1,18 @@
-# Hi there, I'm Audrey - (Weimeng Duan)  👋 
+# Hi there 👋 
 
-## I'm a Data Science Professional, Developer, and Book Worm!!
-
-- 🔭 I’m pursuing an MS in Data Analytics Engineering concentrating in Data Science at Northeastern University 
-- 🔭 I obtained a BS in Information and Computer Science from Central South University in China
-- ✨ I'm interested in Data Science, Machine Learning, Web/APP Development, Product Design, User Experience, and new technology.
-- 👯 I’m looking for full-time opportunities from September 2024 to May 2025 (Note my graduation date is flexible)
-- 👯 I’m available for internships and projects too!
+## About Me
+ 
+- 🏫 I'm a Data Science Professional with degrees of BS in Information and Computer Science and MS in Data Analytics Engineering
+- 🔭 I'm interested in Data Science, Machine Learning, and Data-driven business
+- 💼 I’m looking for full-time opportunities
 - 🌱 Hobbies: drawing, calligraphy, reading, writing, collecting quotes, music, piano, gym, hiking, and exploring everything 🤣
-- ⚡ Fun fact: I swam in the sea for two months. I am a pet lover 😻 🐶. I am a big fan of 'Dream of the Red Chamber' and 'Journey to the West'. 
-- 👋 Friendship: Any passionate friends are welcome to connect. 
+- 👋 Friendship: Any passionate friends are welcome to connect
 
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/weimengduan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/weimengduan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/hiaudreyay#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/hiaudreyay#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/icons8-goodreads25bold.svg)](https://www.goodreads.com/user/show/179233841-audrey-hi)
-
 
 ### Languages and Tools:
 
