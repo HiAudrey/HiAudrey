@@ -1,12 +1,11 @@
 # Hi there 👋 
 
 ## About Me
- 
-- 🏫 I'm a Data Science Professional with degrees of BS in Information and Computer Science and MS in Data Analytics Engineering
-- 🔭 I'm interested in Data Science, Machine Learning, and Data-driven business
-- 💼 I’m looking for full-time opportunities
-- 🌱 Hobbies: drawing, calligraphy, reading, writing, collecting quotes, music, piano, gym, hiking, and exploring everything 🤣
-- 👋 Friendship: Any passionate friends are welcome to connect
+
+- 🏫 Education: BS in Information and Computer Science and MS in Data Analytics Engineering
+- 🔭 Passion: Data Science, Machine Learning, and Data-driven business
+- 💼 Experience: Built and updated credit card risk models, feature engineering, defined and built indicator monitor dashboard, data mining report, data quality assessment, and A/B test for new product channel.
+- 🌱 Hobbies: drawing, calligraphy, reading, writing, collecting quotes, music, nature, and exploring everything 🤣
 
 ### Connect with me:
 
