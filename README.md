@@ -33,6 +33,7 @@
 
 &nbsp;&nbsp;
 ## Connect with me
+
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/weimengduan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/weimengduan#gh-dark-mode-only)
 &nbsp;&nbsp;
