@@ -1,8 +1,8 @@
 ## About Me
-- 💼 **Experience**: Built and updated credit card risk models, defined and built indicator monitor dashboard, feature engineering, data mining report, data quality assessment, and A/B test for new product channel
-- 🏫 **Education**: BS in Mathematics and Computer Science, MS in Data Science
-- 🔭 **Passion**: Data Science, Machine Learning, Data Mining, and Data-driven business
-- 🌱 **Hobbies**: drawing, calligraphy, reading, writing, collecting quotes, music, nature, and exploring :)
+- 💼 **Experience**: Developed end-to-end risk models, designed and monitored performance dashboards, and conducted data quality assessments and A/B tests to optimize product channels.
+- 🏫 **Education**: BS in Mathematics and Computer Science, MS in Data Science.
+- 🔭 **Passion**: Passionate about leveraging data to uncover insights that drive decision-making and innovation, with a particular interest in projects that blend machine learning and data-driven business solutions.
+- 🌱 **Hobbies**: Exploring art through drawing and calligraphy, collecting inspiring quotes, immersing in nature, and finding joy in writing and discovering new music.
 
 ## Connect with me
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/weimengduan#gh-light-mode-only)
@@ -32,7 +32,4 @@
 
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />
-
-
-
 
