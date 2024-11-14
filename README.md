@@ -6,12 +6,12 @@
 - 🔭 Passion: Data Science, Machine Learning, Data Mining, and Data-driven business
 - 🌱 Hobbies: drawing, calligraphy, reading, writing, collecting quotes, music, nature, and exploring :)
 
-### Connect with me:
+## Connect with me:
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/weimengduan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/weimengduan#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg" style="padding-right:10px;" />
