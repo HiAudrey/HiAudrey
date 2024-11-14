@@ -4,6 +4,7 @@
 - 🔭 **Passion**: Data Science, Machine Learning, Data Mining, and Data-driven business
 - 🌱 **Hobbies**: drawing, calligraphy, reading, writing, collecting quotes, music, nature, and exploring :)
 
+<br>
 ## Languages and Tools
 
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
@@ -32,7 +33,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />
 
 
-&nbsp;&nbsp;
+<br>
 ## Connect with me
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/weimengduan#gh-light-mode-only)
