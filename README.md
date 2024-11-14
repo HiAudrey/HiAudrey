@@ -31,7 +31,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />
 
 &nbsp;
-&nbsp;
 
 ## Connect with me
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/weimengduan#gh-light-mode-only)
