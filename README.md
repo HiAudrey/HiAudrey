@@ -1,5 +1,3 @@
-# Hi there 👋 
-
 ## About Me
 - 💼 Experience: Built and updated credit card risk models, defined and built indicator monitor dashboard, feature engineering, data mining report, data quality assessment, and A/B test for new product channel.
 - 🏫 Education: BS in Mathematics and Computer Science, MS in Data Science
