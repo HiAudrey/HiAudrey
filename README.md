@@ -33,16 +33,11 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />
 
-
-# Hi, I'm Jacob Somer! 👋
-
-Welcome to my GitHub profile! 🌟
-
 ## GitHub Stats
 ![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiAudrey&show_icons=true&theme=cobalt)
 
 ## Connect with me
-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/weimengduan#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/weimengduan#gh-light-mode-only)
 
 ## Skills
 
@@ -56,10 +51,10 @@ Welcome to my GitHub profile! 🌟
 [![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,flask,docker,fastapi&perline=3)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,HiveSQL)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,Hive)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,jupter,spider,rstudio)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,Jupter,Spider,Rstudio)
 
 
 
