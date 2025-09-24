@@ -2,7 +2,7 @@
 - 💼 **Experience**: Developed end-to-end risk models, designed and monitored performance dashboards, and conducted data quality assessments and A/B tests to optimize product channels.
 - 🏫 **Education**: BS in Mathematics and Computer Science, MS in Data Science.
 - 🔭 **Passion**: Passionate about leveraging data to uncover insights that drive decision-making and innovation, with a particular interest in projects that blend machine learning and data-driven business solutions.
-- 🌱 **Hobbies**: Reading, writing, learning.
+- 🌱 **Hobbies**: Reading, writing, learning.  
 🐾 *With WangWang, every step.*
 
 ## GitHub Stats
