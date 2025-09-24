@@ -3,7 +3,7 @@
 - 🏫 **Education**: BS in Mathematics and Computer Science, MS in Data Science.
 - 🔭 **Passion**: Passionate about leveraging data to uncover insights that drive decision-making and innovation, with a particular interest in projects that blend machine learning and data-driven business solutions.
 - 🌱 **Hobbies**: Reading, writing, learning.
-- 🐶 🐾 With WangWang, every step.
+🐾 *With WangWang, every step.*
 
 ## GitHub Stats
 ![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiAudrey&show_icons=true&theme=cobalt)
