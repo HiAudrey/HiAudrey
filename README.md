@@ -2,12 +2,9 @@
 - 💼 **Experience**: Developed end-to-end risk models, designed and monitored performance dashboards, and conducted data quality assessments and A/B tests to optimize product channels.
 - 🏫 **Education**: BS in Mathematics and Computer Science, MS in Data Science.
 - 🔭 **Passion**: Passionate about leveraging data to uncover insights that drive decision-making and innovation, with a particular interest in AI commercial solutions.
-- 🌱 **Hobbies**: Reading, writing, learning.  
+- 🌱 **Hobbies**: Reading, writing, learning, nonprofit, ...  
 
 🐾 *With WangWang, every step.*
-
-## GitHub Stats
-![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiAudrey&show_icons=true&theme=cobalt)
 
 ## Connect with me
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/weimengduan#gh-light-mode-only)
