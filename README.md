@@ -36,6 +36,9 @@ If you’d like to chat about potential collaborations, feel free to connect wit
 Exploring **LangChain**, **LlamaIndex**, **OpenAI API**, and **Streamlit** — building Generative AI and AI-driven educational tools.
 
 ---
- <img src="./img/dog.png" width="40" height="40" alt="dog" style="margin-right:8px;" />
+
 🐾 *With WangWang, every step.*  
+
 *In memory of my childhood dog — gone, but never truly gone.*
+
+ <img src="./img/dog.png" width="60" height="60" alt="dog" style="margin-right:8px;" />
