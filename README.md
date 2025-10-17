@@ -5,7 +5,7 @@ These skills shaped how I see the world: I love uncovering hidden patterns, find
 
 I began to travel, study, and write. I became a blogger and a novel author, observing life both as a participant and as a witness. Eventually, I was called to found [**Eudaimon**](https://EudaimonAI.org), a nonprofit organization and a safe space for individuals to reclaim their voice. I’m now developing a free guided educational chatbot to provide mental health support for those who need it but can’t afford traditional counseling.
 
-If you’d like to chat about potential collaborations, feel free to connect with me on [LinkedIn](https://linkedin.com/in/weimengduan#gh-light-mode-only).
+If you’d like to chat about potential collaborations, feel free to connect with me on [**LinkedIn**](https://linkedin.com/in/weimengduan#gh-light-mode-only).
 
 ---
 
@@ -32,10 +32,14 @@ Git, GitHub, VS Code, PyCharm, Jupyter, Anaconda, RStudio, Markdown — version 
 React, Next.js, HTML, CSS, Django, Flask, FastAPI, AWS, Azure, Docker — front-end, back-end, and cloud deployment.
 
 #### 🚀 Currently Learning / Exploring
-![Learning](https://skillicons.dev/icons?i=langchain,llamaindex,openai,streamlit)  
-Exploring Generative AI, LLM agents, LangChain, LlamaIndex, and building AI-driven educational tools.
+![LangChain](https://lobehub.com/icons/langchain)
+![LlamaIndex](https://lobehub.com/icons/llamaindex)
+![OpenAI](https://openai.com/favicon.ico)
+![Streamlit](https://streamlit.io/images/brand/streamlit-mark-color.png)
+
+Exploring **LangChain**, **LlamaIndex**, **OpenAI API**, and **Streamlit** — building Generative AI and AI-driven educational tools.
 
 ---
 
 🐾 *With WangWang, every step.*  
-In memory of my childhood dog — gone, but never truly gone.
+*In memory of my childhood dog — gone, but never truly gone.*
