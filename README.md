@@ -1,30 +1,41 @@
-## About Me
-- 💼 **Experience**: Developed end-to-end risk models, designed and monitored performance dashboards, and conducted data quality assessments and A/B tests to optimize product channels.
-- 🏫 **Education**: BS in Mathematics and Computer Science, MS in Data Science.
-- 🔭 **Passion**: Passionate about leveraging data to uncover insights that drive decision-making and innovation, with a particular interest in AI commercial solutions.
-- 🌱 **Hobbies**: Reading, writing, learning, nonprofit, ...  
+## 💫 My Story
+I used to be a data analyst passionate about turning data into real-world impact. I worked on data collection, quality assessment and cleaning, dashboarding and reporting, business performance analysis, predictive modeling, and data-driven storytelling — transforming complex datasets into actionable insights.
 
-🐾 *With WangWang, every step.*
+These skills shaped how I see the world: I love uncovering hidden patterns, finding the fundamental reasons behind what people see on the surface, and providing thoughtful solutions. Over time, the technical work felt too narrow — it couldn’t satisfy my curiosity about human experience.
 
-## Connect with me
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/weimengduan#gh-light-mode-only)
+I began to travel, study, and write. I became a blogger and a novel author, observing life both as a participant and as a witness. Eventually, I was called to found [**Eudaimon**](https://EudaimonAI.org), a nonprofit organization and a safe space for individuals to reclaim their voice. I’m now developing a free guided educational chatbot to provide mental health support for those who need it but can’t afford traditional counseling.
 
-## Skills
+If you’d like to chat about potential collaborations, feel free to connect with me on [LinkedIn](https://linkedin.com/in/weimengduan#gh-light-mode-only).
 
-#### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,js,python,r,sas,matlab)
+---
 
-#### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,hive,sqlsever)
+## 🧠 Skills
 
-#### Other tools & Technologies
-![Tools](https://skillicons.dev/icons?i=git,github,markdown,vscode,jupter,anaconda,pycharm,rstudio)
+#### 🧑‍💻 Programming Languages
+![Languages](https://skillicons.dev/icons?i=python,r,cpp,js,matlab,sas,c)  
+Python, R, C/C++, JavaScript, Matlab, SAS — used for data analysis, modeling, and application development.
 
-#### Machine Learning Techniques & Libs
-![Machine Learning Techniques & Libs](https://skillicons.dev/icons?i=sklearn,tensorflow,pytourch)
+#### 🗂️ Data Management & Tools
+![Data Tools](https://skillicons.dev/icons?i=mysql,mongodb,hive,sqlserver)  
+SQL, MongoDB, MySQL, Hive, SQL Server — database management, querying, ETL, and data visualization.
 
-#### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css)
+#### 🤖 Machine Learning & AI Frameworks
+![ML & AI](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch)  
+scikit-learn, TensorFlow, PyTorch — for predictive modeling, deep learning, and AI development.
 
-#### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,flask,docker,fastapi&perline=3)](https://skillicons.dev)
+#### ⚙️ Development Tools & Environments
+![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda,pycharm,rstudio,markdown)  
+Git, GitHub, VS Code, PyCharm, Jupyter, Anaconda, RStudio, Markdown — version control, development, and data analysis environments.
+
+#### 💻 Web & Cloud Technologies
+![Web](https://skillicons.dev/icons?i=react,next,html,css,django,flask,fastapi,aws,azure,docker)  
+React, Next.js, HTML, CSS, Django, Flask, FastAPI, AWS, Azure, Docker — front-end, back-end, and cloud deployment.
+
+#### 🚀 Currently Learning / Exploring
+![Learning](https://skillicons.dev/icons?i=langchain,llamaindex,openai,streamlit)  
+Exploring Generative AI, LLM agents, LangChain, LlamaIndex, and building AI-driven educational tools.
+
+---
+
+🐾 *With WangWang, every step.*  
+In memory of my childhood dog — gone, but never truly gone.
