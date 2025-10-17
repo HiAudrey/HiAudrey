@@ -21,7 +21,7 @@ If you’d like to chat about potential collaborations, feel free to connect wit
 ![ML & AI](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch)  
 
 #### ⚙️ Development Tools & Environments
-![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda,console)  
+![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode,anaconda,console)  
 
 #### 💻 Web & Cloud Technologies
 ![Web](https://skillicons.dev/icons?i=aws,azure)  
