@@ -1,4 +1,4 @@
-## 💫 My Story
+## My Story
 I used to be a data analyst passionate about turning data into real-world impact. I worked on data collection, quality assessment and cleaning, dashboarding and reporting, business performance analysis, predictive modeling, and data-driven storytelling — transforming complex datasets into actionable insights.
 
 These skills shaped how I see the world: I love uncovering hidden patterns, finding the fundamental reasons behind what people see on the surface, and providing thoughtful solutions. Over time, the technical work felt too narrow — it couldn’t satisfy my curiosity about human experience.
@@ -9,24 +9,19 @@ If you’d like to chat about potential collaborations, feel free to connect wit
 
 ---
 
-## 🧠 Skills
+## Skills
 
-#### 🧑‍💻 Programming Languages
 ![Languages](https://skillicons.dev/icons?i=python,r)  
 
-#### 🗂️ Data Management & Tools
 ![Data Tools](https://skillicons.dev/icons?i=mysql,hive,sqlserver,oracle)  
 
-#### 🤖 Machine Learning & AI Frameworks
 ![ML & AI](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch)  
 
-#### ⚙️ Development Tools & Environments
 ![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode,anaconda,console)  
 
-#### 💻 Web & Cloud Technologies
 ![Web](https://skillicons.dev/icons?i=aws,azure)  
 
-#### 🚀 Currently Learning / Exploring
+#### Currently Exploring
 <span>
   <img src="./img/langchain-color.svg" width="40" height="40" alt="LangChain" style="margin-right:8px;" />
   <img src="./img/llamaindex-color.svg" width="40" height="40" alt="LlamaIndex" style="margin-right:8px;" />
@@ -37,8 +32,6 @@ Exploring **LangChain**, **LlamaIndex**, **OpenAI API**, and **Streamlit** — b
 
 ---
 
-🐾 *With WangWang, every step.*  
-
-*In memory of my childhood dog — gone, but never truly gone.* 
+🐾 *With WangWang, every step.*  *In memory of my childhood dog — gone, but never truly gone.* 
 
 <img src="./img/dog.png" width="60" height="60" alt="dog" style="margin-right:8px;" />
