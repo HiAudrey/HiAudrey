@@ -21,14 +21,12 @@ If you’d like to chat about potential collaborations, feel free to connect wit
 
 ![Web](https://skillicons.dev/icons?i=aws,azure)  
 
-#### Currently Exploring
+#### Currently Exploring **LangChain**, **LlamaIndex**, **OpenAI API**, and **Streamlit** — building Generative AI and AI-driven educational tools.
 <span>
   <img src="./img/langchain-color.svg" width="40" height="40" alt="LangChain" style="margin-right:8px;" />
   <img src="./img/llamaindex-color.svg" width="40" height="40" alt="LlamaIndex" style="margin-right:8px;" />
   <img src="./img/openai.svg" width="40" height="40" alt="OpenAI" style="margin-right:8px;" />
 </span>
-
-Exploring **LangChain**, **LlamaIndex**, **OpenAI API**, and **Streamlit** — building Generative AI and AI-driven educational tools.
 
 ---
 
