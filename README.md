@@ -12,24 +12,19 @@ If you’d like to chat about potential collaborations, feel free to connect wit
 ## 🧠 Skills
 
 #### 🧑‍💻 Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,r,cpp,js,matlab,sas,c)  
-Python, R, C/C++, JavaScript, Matlab, SAS — used for data analysis, modeling, and application development.
+![Languages](https://skillicons.dev/icons?i=python,r)  
 
 #### 🗂️ Data Management & Tools
-![Data Tools](https://skillicons.dev/icons?i=mysql,mongodb,hive,sqlserver)  
-SQL, MongoDB, MySQL, Hive, SQL Server — database management, querying, ETL, and data visualization.
+![Data Tools](https://skillicons.dev/icons?i=mysql,hive,sqlserver,oracle)  
 
 #### 🤖 Machine Learning & AI Frameworks
 ![ML & AI](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch)  
-scikit-learn, TensorFlow, PyTorch — for predictive modeling, deep learning, and AI development.
 
 #### ⚙️ Development Tools & Environments
-![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda,pycharm,rstudio,markdown)  
-Git, GitHub, VS Code, PyCharm, Jupyter, Anaconda, RStudio, Markdown — version control, development, and data analysis environments.
+![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda,console)  
 
 #### 💻 Web & Cloud Technologies
-![Web](https://skillicons.dev/icons?i=react,next,html,css,django,flask,fastapi,aws,azure,docker)  
-React, Next.js, HTML, CSS, Django, Flask, FastAPI, AWS, Azure, Docker — front-end, back-end, and cloud deployment.
+![Web](https://skillicons.dev/icons?i=aws,azure)  
 
 #### 🚀 Currently Learning / Exploring
 <span>
