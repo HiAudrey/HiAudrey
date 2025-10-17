@@ -32,9 +32,9 @@ Git, GitHub, VS Code, PyCharm, Jupyter, Anaconda, RStudio, Markdown — version 
 React, Next.js, HTML, CSS, Django, Flask, FastAPI, AWS, Azure, Docker — front-end, back-end, and cloud deployment.
 
 #### 🚀 Currently Learning / Exploring
-<img src="./img/langchain.svg" width="40" height="40" alt="LangChain" />
-<img src="./img/llamaindex.svg" width="40" height="40" alt="LlamaIndex" />
-<img src="./img/openai.svg" width="40" height="40" alt="OpenAI" />
+<img src="./img/langchain-color.svg" width="40" height="40" alt="LangChain" />
+<img src="./img/llamaindex-color.svg" width="40" height="40" alt="LlamaIndex" />
+<img src="./img/openai-color.svg" width="40" height="40" alt="OpenAI" />
 <img src="./img/streamlit.svg" width="40" height="40" alt="Streamlit" />
 
 Exploring **LangChain**, **LlamaIndex**, **OpenAI API**, and **Streamlit** — building Generative AI and AI-driven educational tools.
