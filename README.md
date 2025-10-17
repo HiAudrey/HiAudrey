@@ -39,6 +39,4 @@ Exploring **LangChain**, **LlamaIndex**, **OpenAI API**, and **Streamlit** — b
 
 🐾 *With WangWang, every step.*  
 
-*In memory of my childhood dog — gone, but never truly gone.*
-
- <img src="./img/dog.png" width="60" height="60" alt="dog" style="margin-right:8px;" />
+*In memory of my childhood dog — gone, but never truly gone.* <img src="./img/dog.png" width="60" height="60" alt="dog" style="margin-right:8px;" />
