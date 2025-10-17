@@ -1,11 +1,12 @@
 ## My Story
-I used to be a data analyst passionate about turning data into real-world impact. I worked on data collection, quality assessment and cleaning, dashboarding and reporting, business performance analysis, predictive modeling, and data-driven storytelling — transforming complex datasets into actionable insights.
 
-These skills shaped how I see the world: I love uncovering hidden patterns, finding the fundamental reasons behind what people see on the surface, and providing thoughtful solutions. Over time, the technical work felt too narrow — it couldn’t satisfy my curiosity about human experience.
+I used to be a **data analyst** passionate about turning data into real-world impact. I worked on **data collection, cleaning, dashboarding, business performance analysis, predictive modeling, and data-driven storytelling** — transforming complex datasets into actionable insights.
 
-I began to travel, study, and write. I became a blogger and a novel author, observing life both as a participant and as a witness. Eventually, I was called to found [**Eudaimon**](https://EudaimonAI.org), a nonprofit organization and a safe space for individuals to reclaim their voice. I’m now developing a free guided educational chatbot to provide mental health support for those who need it but can’t afford traditional counseling.
+These skills shaped how I see the world: I love **uncovering hidden patterns**, finding **fundamental reasons**, and providing **thoughtful solutions**. Over time, technical work felt too narrow — it couldn’t satisfy my curiosity about human experience.
 
-If you’d like to chat about potential collaborations, feel free to connect with me on [**LinkedIn**](https://linkedin.com/in/weimengduan#gh-light-mode-only).
+I began to **travel, study, and write**. I became a **blogger and a novel author**, observing life as both participant and witness. Eventually, I was called to found **[Eudaimon](https://EudaimonAI.org)**, a nonprofit organization and a **safe space for individuals to reclaim their voice**. I’m now developing a **free guided educational chatbot** to provide mental health support for those who need it but can’t afford traditional counseling.
+
+If you’d like to chat about potential collaborations, feel free to connect with me on [LinkedIn](https://linkedin.com/in/weimengduan).
 
 ---
 
