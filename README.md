@@ -1,12 +1,20 @@
 ## My Story
 
-I used to be a **data analyst** passionate about turning data into real-world impact. I worked on **data collection, cleaning, dashboarding, business performance analysis, predictive modeling, and data-driven storytelling** — transforming complex datasets into actionable insights.
+Hi, I’m Audrey — a data analyst turned creator, passionate about exploring how technology, design, and empathy can shape better futures.
 
-These skills shaped how I see the world: I love **uncovering hidden patterns**, finding **fundamental reasons**, and providing **thoughtful solutions**. Over time, technical work felt too narrow — it couldn’t satisfy my curiosity about human experience.
+I started with data science and analytics, working on data collection, visualization, business insights, and predictive modeling. Over time, my curiosity expanded — from understanding systems to understanding people.
 
-I began to **travel, study, and write**. I became a **blogger and a novel author**, observing life as both participant and witness. Eventually, I was called to found **[Eudaimon](https://EudaimonAI.org)**, a nonprofit organization and a **safe space for individuals to reclaim their voice**. I’m now developing a **free guided educational chatbot** to provide mental health support for those who need it but can’t afford traditional counseling.
+Now I build at the intersection of AI, mental health, and human-centered design. I founded Eudaimon — a nonprofit and safe space for individuals who are emotionally vulnerable to reclaim their voice. I’ve recently developed and launched the first version of our free AI-guided educational coach, offering gentle support for those who need it but can’t access traditional counseling.
 
-If you’d like to chat about potential collaborations, feel free to connect with me on [LinkedIn](https://linkedin.com/in/weimengduan).
+I love exploring new technologies, business for good, and all forms of design — from interfaces to ideas.
+
+📬 Connect: [LinkedIn](https://linkedin.com/in/weimengduan) | [EudaimonAI.org](https://EudaimonAI.org)
+
+---
+
+🐾 *With WangWang, every step.*  *In memory of my childhood dog — gone, but never lost.* 
+
+<img src="./img/dog.png" width="60" height="60" alt="dog" style="margin-right:8px;" />
 
 ---
 
@@ -29,8 +37,3 @@ If you’d like to chat about potential collaborations, feel free to connect wit
   <img src="./img/openai.svg" width="40" height="40" alt="OpenAI" style="margin-right:8px;" />
 </span>
 
----
-
-🐾 *With WangWang, every step.*  *In memory of my childhood dog — gone, but never truly gone.* 
-
-<img src="./img/dog.png" width="60" height="60" alt="dog" style="margin-right:8px;" />
