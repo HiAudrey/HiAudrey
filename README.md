@@ -2,7 +2,7 @@
 
 I'm an Applied AI Engineer at [Eudaimon](https://EudaimonAI.org), a 501(c)(3) nonprofit building AI systems for psychological resilience and relationship literacy.
 
-My background spans fintech data analytics and AI systems, with years of experience in predictive modeling, data pipelines, and decision systems. I hold a Master's in Data Analytics Engineering from Northeastern University (GPA 3.83).
+My background spans fintech data analytics and AI systems, with 7+ years of experience in predictive modeling, data pipelines, and decision systems. I hold a Master's in Data Analytics Engineering from Northeastern University (GPA 3.83).
 
 At Eudaimon, I design and deploy LLM-powered systems grounded in behavioral science, focusing on how people interpret signals, navigate power dynamics, and make decisions in complex relationships. The platform has reached 1,000+ users across 18+ countries, with zero paid acquisition — driven purely by product value and user resonance.
 
