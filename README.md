@@ -64,7 +64,7 @@ Delivered business insights through exploratory analysis, KPI dashboards, and ex
 
 ## 🧠 How I Build AI Systems
 
-I approach AI development as system design, not just model integration.
+I approach AI development as a system design problem.
 
 ### 1. Problem Framing
 
