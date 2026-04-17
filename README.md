@@ -1,98 +1,59 @@
-## Hi, I'm Meng
+# Hi, I'm Weimeng 
 
-I'm an Applied AI Engineer at [Eudaimon](https://EudaimonAI.org), a 501(c)(3) nonprofit building AI systems for psychological resilience and relationship literacy.
+**Applied AI Engineer** building production LLM systems — from domain research through deployment.
 
-My background spans fintech data analytics and AI systems, with 7+ years of experience in predictive modeling, data pipelines, and decision systems. I hold a Master's in Data Analytics Engineering from Northeastern University (GPA 3.83).
+I'm the founder and solo engineer of [**EudaimonAI**](https://eudaimonai.org), a 501(c)(3) nonprofit running a live AI product in 18+ countries with 1,000+ users and 200+ MAU — architecture, RAG, multi-model orchestration, eval infrastructure, and production ops, all owned by one person. Zero funding, zero marketing spend.
 
-At Eudaimon, I design and deploy LLM-powered systems grounded in behavioral science, focusing on how people interpret signals, navigate power dynamics, and make decisions in complex relationships. The platform has reached 1,000+ users across 18+ countries, with zero paid acquisition — driven purely by product value and user resonance.
+Before AI, I spent **8 years embedded in a fintech risk team** building credit models on 2M+ daily transactions. That work taught me something that matters as much for LLMs as for credit models: *the domain matters as much as the model, data quality decides output, and the engineer who understands both is the one who ships systems that get trusted.*
 
-📬 [LinkedIn](https://linkedin.com/in/weimengduan) | [EudaimonAI.org](https://EudaimonAI.org)
+I hold a M.S. in Data Analytics Engineering from Northeastern University (GPA 3.83).
 
----
-
-🐾 *With WangWang, every step.*
-
-<img src="./img/dog.png" width="60" height="60" alt="WangWang" />
+📬 [LinkedIn](https://linkedin.com/in/weimengduan) · 🌐 [EudaimonAI.org](https://eudaimonai.org) · ✉️ duan.weimeng0@gmail.com
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-**Core Languages**
-Python (primary) · TypeScript
-
-**Machine Learning & AI**
-PyTorch · LLM APIs (OpenAI, Claude, Gemini, Groq) · RAG Pipelines · LangChain · LlamaIndex
-
-**Data Systems**
-PostgreSQL · MySQL · Data Pipelines · Feature Engineering
-
-**AI System Design**
-Prompt Engineering · Retrieval Systems · Structured Output Design
-
-**Infrastructure**
-AWS · Supabase · Vercel
-
-**Frontend (for prototyping)**
-React · Next.js
-
-**Tools**
-Git · GitHub · Cursor
-
-**Evaluation & Experimentation**
-A/B Testing · Prompt Evaluation · Iterative System Tuning
-
----
-
-## 📊 Data Science & Predictive Modeling
-
-Before building AI systems, I spent years in fintech solving risk and decision problems with classical ML.
-
-**Credit Risk Modeling**
-Built credit scoring and risk assessment models using logistic regression, random forest, and XGBoost. Designed feature engineering pipelines from raw transactional and behavioral data, with emphasis on model interpretability for regulatory and business stakeholders.
-
-**Algorithms**
-Logistic Regression · Random Forest · XGBoost · Time Series Forecasting
-
-**Model Evaluation**
-ROC/AUC · Precision-Recall · KS Statistic · Cross-Validation · Feature Importance Analysis
-
-**Data Analysis & Visualization**
-Delivered business insights through exploratory analysis, KPI dashboards, and executive-facing reports. Translated complex data into clear narratives for cross-functional stakeholders.
+**Core Languages** — Python · TypeScript · SQL
+**LLM Systems** — OpenAI · Gemini · Groq · LangChain · RAG with pgvector · Prompt Engineering · LLM-as-Judge Evaluation · Multi-Model Orchestration
+**Backend & Infra** — Node.js · FastAPI · Next.js · Supabase (Postgres + pgvector + Auth) · Vercel
+**Data & Modeling Foundations** — Pandas · NumPy · Scikit-learn · XGBoost · PostgreSQL · Feature Engineering · Time Series
+**Tools** — Git · Cursor · Claude Code
 
 ---
 
 ## 🧠 How I Build AI Systems
 
-I approach AI development as a system design problem.
+I approach AI development as a **system design problem**, not a model problem.
 
-### 1. Problem Framing
+**1. Problem framing first.** I start by identifying decision points under uncertainty — where users struggle with interpretation, ambiguity, or conflicting signals. The goal is to improve human judgment and clarity, not to maximize raw model output.
 
-I start by identifying decision points under uncertainty, especially where users struggle with interpretation, ambiguity, or conflicting signals. Rather than optimizing for raw model output, I focus on how AI can improve human judgment and clarity.
-
-### 2. System over Model
-
-Instead of relying on a single model, I design multi-step systems:
-- Structured input (e.g., self-assessment, context capture)
+**2. Systems over models.** Instead of relying on a single LLM call, I design multi-step systems:
+- Structured input and context capture
 - Retrieval (RAG) for grounding
-- LLM reasoning with controlled prompts
-- Structured outputs (interpretation, options, trade-offs)
+- LLM reasoning with versioned, eval-tested prompts
+- Structured outputs with schema validation and typed fallbacks
+- Multi-model fallback routing for reliability
 
-The goal is to make outputs interpretable, actionable, and consistent.
+**3. Eval-first development.** I built an LLM-as-judge regression harness with domain-informed synthetic personas before the product had a marketing page. Every prompt change is validated against the eval suite before deploy.
 
-### 3. Human-Centered Design
+**4. Production iteration loops.** Real metrics (MAU, retention, session depth) drive the roadmap. Prompts get rewritten based on user signals, not opinions. Ships weekly against real data.
 
-I treat interaction as part of the system:
-- Reduce cognitive load
-- Guide reflection rather than prescribe answers
-- Support user agency in decision-making
+---
 
-This is especially important in domains like relationships, mental health, and behavior.
+## 📊 Prior Life: Fintech Risk & Predictive Modeling
 
-### 4. Iteration & Feedback Loops
+Before AI, 8 years at a consumer lending platform processing 2M+ daily transactions.
 
-I build systems that improve in production:
-- Prompt iteration and evaluation against real user interactions
-- User feedback signals integrated into system refinement
-- Scalable architecture (API + lightweight infra) designed for actual adoption
-- Robust handling of noisy or incomplete input
+- **Credit Risk Modeling** — Built scoring and risk assessment models (logistic regression, random forest, XGBoost) used in live production loan decisions. Feature engineering pipelines over raw transactional and behavioral data, with emphasis on interpretability for regulatory and business stakeholders.
+- **Vendor Data Evaluation** — Designed a data-provider quality scoring system from scratch; ran downstream intervention tests to measure real model impact. Cut external data spend while improving reliability.
+- **Model Evaluation** — ROC/AUC · Precision-Recall · KS Statistic · Cross-Validation · Feature Importance
+
+---
+
+## 📌 Selected Work
+
+**[EudaimonAI](https://eudaimonai.org)** — Production LLM application, live in 18+ countries
+Solo-built AI system combining RAG with pgvector, multi-model fallback (OpenAI → six Gemini variants → Groq), rolling long-term memory compression, LLM-as-judge eval harness with synthetic personas, and bilingual (EN/ZH) safety-signal routing. Full stack: Next.js · TypeScript · Supabase · Vercel.
+
+*Core code is in a private repo for IP reasons; happy to walk through architecture in conversation.*
