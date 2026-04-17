@@ -14,15 +14,11 @@ I hold a M.S. in Data Analytics Engineering from Northeastern University (GPA 3.
 
 ## 🛠 Tech Stack
 
-**Core Languages** — Python · TypeScript · SQL
-
-**LLM Systems** — OpenAI · Gemini · Groq · LangChain · RAG with pgvector · Prompt Engineering · LLM-as-Judge Evaluation · Multi-Model Orchestration
-
-**Backend & Infra** — Node.js · FastAPI · Next.js · Supabase (Postgres + pgvector + Auth) · Vercel
-
-**Data & Modeling Foundations** — Pandas · NumPy · Scikit-learn · XGBoost · PostgreSQL · Feature Engineering · Time Series
-
-**Tools** — Git · Cursor · Claude Code
+- **Core Languages** — Python · TypeScript · SQL
+- **LLM Systems** — OpenAI · Gemini · Groq · LangChain · RAG with pgvector · Prompt Engineering · LLM-as-Judge Evaluation · Multi-Model Orchestration
+- **Backend & Infra** — Node.js · FastAPI · Next.js · Supabase (Postgres + pgvector + Auth) · Vercel
+- **Data & Modeling Foundations** — Pandas · NumPy · Scikit-learn · XGBoost · PostgreSQL · Feature Engineering · Time Series
+- **Tools** — Git · Cursor · Claude Code
 
 ---
 
