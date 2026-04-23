@@ -53,7 +53,7 @@ Before AI, 8 years at a consumer lending platform processing 2M+ daily transacti
 
 ## 📌 Selected Work
 
-**[EudaimonAI](https://eudaimonai.org)** — Production LLM application, live in 18+ countries
+**[Eudaimon](https://eudaimonai.org)** — Production LLM application, live in 18+ countries
 Solo-built AI system combining RAG with pgvector, multi-model fallback (OpenAI → six Gemini variants → Groq), rolling long-term memory compression, LLM-as-judge eval harness with synthetic personas, and bilingual (EN/ZH) safety-signal routing. Full stack: Next.js · TypeScript · Supabase · Vercel.
 
 *Core code is in a private repo for IP reasons; happy to walk through architecture in conversation.*
