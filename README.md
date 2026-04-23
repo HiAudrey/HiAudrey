@@ -2,7 +2,7 @@
 
 **Applied AI Engineer** building production LLM systems — from domain research through deployment.
 
-I'm the founder and solo engineer of [**EudaimonAI**](https://eudaimonai.org), a 501(c)(3) nonprofit running a live AI product in 18+ countries with 1,000+ users and 200+ MAU — architecture, RAG, multi-model orchestration, eval infrastructure, and production ops, all owned by one person. Zero funding, zero marketing spend.
+I'm the founder and solo engineer of [**Eudaimon**](https://eudaimonai.org), a 501(c)(3) nonprofit running a live AI product in 18+ countries with 1,000+ users and 200+ MAU — architecture, RAG, multi-model orchestration, eval infrastructure, and production ops, all owned by one person. Zero funding, zero marketing spend.
 
 Before AI, I spent **8 years embedded in a fintech risk team** building credit models on 2M+ daily transactions. That work taught me something that matters as much for LLMs as for credit models: *the domain matters as much as the model, data quality decides output, and the engineer who understands both is the one who ships systems that get trusted.*
 
