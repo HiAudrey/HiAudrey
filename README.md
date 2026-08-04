@@ -4,11 +4,7 @@
 
 I'm the founder and solo engineer of [**Eudaimon**](https://eudaimonai.org), a 501(c)(3) nonprofit running a live AI product in 18+ countries with 1,000+ users and 200+ MAU — architecture, RAG, multi-model orchestration, eval infrastructure, and production ops, all owned by one person. Zero funding, zero marketing spend.
 
-Before AI, I spent **8 years embedded in a fintech risk team** building credit models on 2M+ daily transactions. That work taught me something that matters as much for LLMs as for credit models: *the domain matters as much as the model, data quality decides output, and the engineer who understands both is the one who ships systems that get trusted.*
-
-I hold a M.S. in Data Analytics Engineering from Northeastern University (GPA 3.83).
-
-📬 [LinkedIn](https://linkedin.com/in/weimengduan) · 🌐 [EudaimonAI.org](https://eudaimonai.org) · ✉️ duan.weimeng0@gmail.com
+🌐 [EudaimonAI.org](https://eudaimonai.org) 
 
 ---
 
@@ -39,21 +35,9 @@ I approach AI development as a **system design problem**, not a model problem.
 
 **4. Production iteration loops.** Real metrics (MAU, retention, session depth) drive the roadmap. Prompts get rewritten based on user signals, not opinions. Ships weekly against real data.
 
----
-
-## 📊 Prior Life: Fintech Risk & Predictive Modeling
-
-Before AI, 8 years at a consumer lending platform processing 2M+ daily transactions.
-
-- **Credit Risk Modeling** — Built scoring and risk assessment models (logistic regression, random forest, XGBoost) used in live production loan decisions. Feature engineering pipelines over raw transactional and behavioral data, with emphasis on interpretability for regulatory and business stakeholders.
-- **Vendor Data Evaluation** — Designed a data-provider quality scoring system from scratch; ran downstream intervention tests to measure real model impact. Cut external data spend while improving reliability.
-- **Model Evaluation** — ROC/AUC · Precision-Recall · KS Statistic · Cross-Validation · Feature Importance
-
----
-
 ## 📌 Selected Work
 
 **[Eudaimon](https://eudaimonai.org)** — Production LLM application, live in 18+ countries
 Solo-built AI system combining RAG with pgvector, multi-model fallback (OpenAI → six Gemini variants → Groq), rolling long-term memory compression, LLM-as-judge eval harness with synthetic personas, and bilingual (EN/ZH) safety-signal routing. Full stack: Next.js · TypeScript · Supabase · Vercel.
 
-*Core code is in a private repo for IP reasons; happy to walk through architecture in conversation.*
+*Core code is in a private repo; happy to walk through architecture in conversation.*
