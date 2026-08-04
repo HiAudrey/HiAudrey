@@ -1,9 +1,6 @@
 # Hi, I'm Weimeng 
 
 **Applied AI Engineer** building production LLM systems — from domain research through deployment.
-
-I'm the founder and solo engineer of [**Eudaimon**](https://eudaimonai.org), a 501(c)(3) nonprofit running a live AI product in 18+ countries with 1,000+ users and 200+ MAU — architecture, RAG, multi-model orchestration, eval infrastructure, and production ops, all owned by one person. Zero funding, zero marketing spend.
-
 🌐 [EudaimonAI.org](https://eudaimonai.org) 
 
 ---
